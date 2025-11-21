@@ -1,0 +1,3 @@
+[submodule "InfoUIManager"]
+	path = InfoUIManager
+	url = https://github.com/Krish-Tech17/InfoUIManager.git
